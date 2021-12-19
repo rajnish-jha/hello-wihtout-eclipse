@@ -4,4 +4,8 @@ class File3{
     int a=10;
     System.out.print("This class is again modified by developer2 ");
  }
+ 
+  public void m2(){
+    System.out.println("This class is modified by developer1");
+ }
 }
